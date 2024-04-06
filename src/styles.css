@@ -1,0 +1,13 @@
+/* styles.css */
+.navbar-brand a {
+  text-decoration: none;
+  color: inherit;
+  font-size: 1.5rem;
+}
+
+.navbar-nav a {
+  text-decoration: none;
+  color: inherit;
+  font-size: 1.2rem;
+  margin: 0.5rem;
+}
